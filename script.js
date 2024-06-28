@@ -42,7 +42,7 @@ function leerIntento(){
     return intento;
 }
 
-let diccionario = ['APPLE', 'PARED', 'TECHO', 'LAPIZ']
+let diccionario = ['APPLE', 'HURLS', 'WINGS', 'YOUTH']
 const palabra = diccionario[Math.floor(Math.random() * diccionario.length)];
 
 
