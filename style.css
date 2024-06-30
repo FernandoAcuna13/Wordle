@@ -1,5 +1,7 @@
 body {
     font-family: Arial, sans-serif;
+    color: #86a8cf;
+    background-color: #26425a;
 }
 h1 {
     text-align: center;
@@ -45,4 +47,27 @@ button:active {
     
 .input-area{
     margin: 30px;
+}
+
+.mensaje {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.ganaste {
+    color: green;
+}
+
+.perdiste {
+    color: red;
+}
+
+#grid {
+    text-align: center;
+    padding: 3%;
+    margin: 3%;
+    border: 1% solid black;
+    color: black;
 }
